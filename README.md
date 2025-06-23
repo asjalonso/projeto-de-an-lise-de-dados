@@ -1,2 +1,2 @@
-# projeto-de-analise-de-dados
-Projeto de aprendizado em análise de dados com Postgres, SQL Server, Pentaho, Python e Power BI.
+# Projeto de Análise de Dados
+Projeto de aprendizado em Análise de Dados com PostgresSQL, SQL Server, Pentaho, Python e Power BI.
